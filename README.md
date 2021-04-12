@@ -8,7 +8,7 @@
     <li>
       <a href="#Dataset">Dataset</a>
        <ul>
-        <li>[a link](https://github.com/Jarvis-wang/DS5110-project/tree/main/DS%205110%20project)</li>
+        <li>[DATA](https://github.com/Jarvis-wang/DS5110-project/tree/main/DS%205110%20project/DATA)</li>
        </ul>
     </li>   
   </ol>  
