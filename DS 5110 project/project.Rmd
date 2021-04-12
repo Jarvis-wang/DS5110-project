@@ -32,8 +32,10 @@ countNA <- function(data){
 ```
 
 ```{r}
+# look the raw data and check the missing values.
 head(VAERSDATA)
 countNA(VAERSDATA)
+str(VAERSDATA)
 
 head(VAERSSYMPTOMS)
 countNA(VAERSSYMPTOMS)
@@ -43,6 +45,7 @@ countNA(VAERSVAX)
 
 head(vaccinations)
 countNA(vaccinations)
+str(vaccinations)
 ```
 ```{r}
 
