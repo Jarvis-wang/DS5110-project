@@ -1,6 +1,6 @@
 ---
 title: "DS5110_Project"
-author: "Hongyang Wang"
+author: "Hongyang Wang","Riddhi Rajesh Solanki", "Fangjie Liu"
 date: "3/18/2021"
 output: html_document
 ---
