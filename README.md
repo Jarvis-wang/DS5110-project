@@ -22,19 +22,16 @@
        <ul>
          <li><a href="https://www.kaggle.com/paultimothymooney/usa-covid19-vaccinations">Data References2</a></li>
       </ul>
-    </li>
-    
-    <li>
+   </li> 
+   <li>
       <a href="#Proposed Plan">Proposed Plan</a>
-    </li>
-    
-    <li>
+   </li>
+   <li>
       <a href="https://github.com/Jarvis-wang/DS5110-project/blob/main/DS%205110%20project/project.Rmd">Code</a>
-    </li>
-    
-     <li>
+   </li>
+   <li>
       <a href="#Conclusion">Conclusion</a>
-    </li>
+   </li>
     
     <li>
       <a href=" ">Knit PDF</a>
