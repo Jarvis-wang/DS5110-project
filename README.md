@@ -24,7 +24,7 @@
       </ul>
    </li> 
    <li>
-      <a href="#Proposed Plan">Proposed Plan</a>
+      <a href="#Plan">Proposed Plan</a>
    </li>
    <li>
       <a href="https://github.com/Jarvis-wang/DS5110-project/blob/main/DS%205110%20project/project.Rmd">Code</a>
@@ -32,10 +32,9 @@
    <li>
       <a href="#Conclusion">Conclusion</a>
    </li>
-    
-    <li>
+   <li>
       <a href=" ">Knit PDF</a>
-    </li>
+   </li>
   </ol>
 </details> 
   
@@ -63,7 +62,7 @@ The dataset includes 4 csv files:
  <li><a href="https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions/tasks?taskId=3285">Data References1</a></li>      <li><a href="https://www.kaggle.com/paultimothymooney/usa-covid19-vaccinations">Data References2</a></li>
 </ul>
 
-## Proposed Plan
+## Plan
 
 Our plan consists of the following workflow:
 1.	Merging and combining data
