@@ -33,17 +33,22 @@
       <a href=" ">Knit PDF</a>
     </li>
   </ol>
-</details>  
+</details> 
+  
 ## About The Project
+
 ### Summary
+
 The Vaccine Adverse Event Reporting System (VAERS) was made by the Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC) to get reports about unfavorable occasions that might be related with immunizations. No physician endorsed drug or organic item, like an antibody, is totally liberated from results. Specialists and other immunization suppliers are urged to report antagonistic occasions, regardless of whether they are not sure that the inoculation was the reason. Since it is hard to separate an unplanned occasion from one genuinely brought about by an immunization, the VAERS data set will contain occasions of the two sorts.
 
 ### Goal
+
 * How the people are reacting to vaccines.
 * Discover a pattern in symptoms.
 * Predict suitable candidates for vaccination.
 
 ## Dataset
+
 The dataset includes 4 csv files: 
 1.	Patient data
 2.	Symptom data
@@ -55,6 +60,7 @@ The dataset includes 4 csv files:
 </ul>
 
 ## Proposed Plan
+
 Our plan consists of the following workflow:
 1.	Merging and combining data
 2.	Exploratory Data Analysis
