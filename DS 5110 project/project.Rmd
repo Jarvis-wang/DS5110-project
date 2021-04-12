@@ -1,0 +1,49 @@
+---
+title: "DS5110_Project"
+author: "Hongyang Wang"
+date: "3/18/2021"
+output: html_document
+---
+
+```{r}
+library(readr)
+VAERSDATA = read_csv("/Users/hongyangwang/OneDrive/2021northeastern/DS 5110 project/DATA/2021VAERSDATA.csv")
+VAERSSYMPTOMS = read_csv("/Users/hongyangwang/OneDrive/2021northeastern/DS 5110 project/DATA/2021VAERSSYMPTOMS.csv")
+VAERSVAX = read_csv("/Users/hongyangwang/OneDrive/2021northeastern/DS 5110 project/DATA/2021VAERSVAX.csv")
+vaccinations = read_csv("/Users/hongyangwang/OneDrive/2021northeastern/DS 5110 project/DATA/us_state_vaccinations.csv")
+
+str(VAERSDATA)
+str(VAERSSYMPTOMS)
+str(VAERSVAX)
+str(vaccinations)
+
+```
+
+```{r}
+library(dplyr)
+countNA <- function(data){
+   x <- data%>%select(everything()) %>% summarise_all(funs(sum(is.na(.))))
+   x
+}
+```
+
+```{r}
+head(VAERSDATA)
+countNA(VAERSDATA)
+
+head(VAERSSYMPTOMS)
+countNA(VAERSSYMPTOMS)
+
+head(VAERSVAX)
+countNA(VAERSVAX)
+
+head(vaccinations)
+countNA(vaccinations)
+```
+```{r}
+
+
+
+
+
+```
