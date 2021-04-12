@@ -39,9 +39,11 @@ str(VAERSDATA)
 
 head(VAERSSYMPTOMS)
 countNA(VAERSSYMPTOMS)
+str(VAERSSYMPTOMS)
 
 head(VAERSVAX)
 countNA(VAERSVAX)
+str(VAERSVAX)
 
 head(vaccinations)
 countNA(vaccinations)
