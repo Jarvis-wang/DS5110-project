@@ -17,11 +17,8 @@
         <li><a href="https://github.com/Jarvis-wang/DS5110-project/tree/main/DS%205110%20project/DATA">Data</a></li>
        </ul>
        <ul>
-        <li><a href="https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions">Data References1</a></li>
+        <li><a href="https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions">Data References</a></li>
        </ul>
-       <ul>
-         <li><a href="https://www.kaggle.com/paultimothymooney/usa-covid19-vaccinations">Data References2</a></li>
-      </ul>
    </li> 
    <li>
       <a href="#Proposed-Plan">Proposed Plan</a>
@@ -52,15 +49,13 @@ The Vaccine Adverse Event Reporting System (VAERS) was made by the Food and Drug
 
 ## Dataset
 
-The dataset includes 4 csv files: 
+The dataset includes 3 csv files: 
 1.	Patient data
 2.	Symptom data
 3.	Vaccine data
-4.	Vaccination progress
 <ul>
  <li><a href="https://github.com/Jarvis-wang/DS5110-project/tree/main/DS%205110%20project/DATA">Data</a></li>
- <li><a href="https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions/tasks?taskId=3285">Data References1</a></li>      <li><a href="https://www.kaggle.com/paultimothymooney/usa-covid19-vaccinations">Data References2</a></li>
-</ul>
+ <li><a href="https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions/tasks?taskId=3285">Data References</a></li>
 
 ## Proposed Plan
 
