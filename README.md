@@ -66,10 +66,10 @@ Our plan consists of the following workflow:
 4.	Feature Engineering
 5.	Machine Learning Model for classification
 	
-Programming language: R
+**Programming language:** R
 
-IDE: Rstudio
+**IDE:** Rstudio
 
-Version control: GitHub
+**Version control:** GitHub
 
 ## Conclusion
