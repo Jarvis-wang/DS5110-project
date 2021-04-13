@@ -57,6 +57,7 @@ The dataset includes 3 csv files:
  <li><a href="https://github.com/Jarvis-wang/DS5110-project/tree/main/DS%205110%20project/DATA">Data</a></li>
  <li><a href="https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions/tasks?taskId=3285">Data References</a></li>
 </ul>
+
 ## Proposed Plan
 
 Our plan consists of the following workflow:
