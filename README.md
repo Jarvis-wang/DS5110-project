@@ -45,7 +45,7 @@ The Vaccine Adverse Event Reporting System (VAERS) was made by the Food and Drug
 
 * How the people are reacting to vaccines.
 * Discover a pattern in symptoms.
-* Predict suitable candidates for vaccination.
+* Confirm whether there is a relationship between the number of symptoms and age, gender, arm that received the vaccine (left or right), and the pharmaceutical factory.
 
 ## Dataset
 
