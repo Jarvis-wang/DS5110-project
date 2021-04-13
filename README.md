@@ -65,6 +65,7 @@ Our plan consists of the following workflow:
 3.	Data Visualization
 4.	Feature Engineering
 5.	Machine Learning Model for classification
+<p></p>
 	
 **Programming language:** R
 
